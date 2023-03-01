@@ -22,11 +22,11 @@
 - 댓글 삭제하기
 - 게시글 가져올 때 댓글도 가져오게 만들기
 
-###메인
+### 메인
 ![image](https://user-images.githubusercontent.com/110436172/221515487-f69d062d-0e19-4b1e-be82-b390e2e3307c.png)
-###회원가입
+### 회원가입
 ![image](https://user-images.githubusercontent.com/110436172/221515601-04ebccdc-d5bb-4b06-8baa-c1d6e6355b7c.png)
-###로그인
+### 로그인
 ![image](https://user-images.githubusercontent.com/110436172/221515681-b06491a9-4fdf-4229-8677-33bec5a58812.png)
-###게시판
+### 게시판
 ![image](https://user-images.githubusercontent.com/110436172/221518704-10a91ebe-c0af-469d-bc23-c4f46fbf19be.png)
